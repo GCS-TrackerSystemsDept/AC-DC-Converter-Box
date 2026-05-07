@@ -87,53 +87,57 @@ DocumentUniqueId=
 DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM_ACD_PVW01_PVWires_2026-05-06.xlsx
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM_ACD_SPD01_SPDHarness_2026-05-07.xlsx
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Proyect_Layout_Revision
-Value=A
+Name=Project_Address1
+Value=GameChange Solar
 
 [Parameter2]
-Name=Project_Sch_Revision
-Value=A
-
-[Parameter3]
-Name=Project_Layout_size
-Value=Letter
-
-[Parameter4]
-Name=Project_Doc_Class
-Value=WH1
-
-[Parameter5]
-Name=Project_DesignName
-Value=AC_DC Converter Box
-
-[Parameter6]
-Name=Project_BOM_Revision
-Value=A
-
-[Parameter7]
-Name=Project_Author
-Value=EM
-
-[Parameter8]
-Name=Project_Assembly_Revision
-Value=A
-
-[Parameter9]
-Name=Project_Address4
-Value=USA
-
-[Parameter10]
-Name=Project_Address3
-Value=Norwalk, CT 06855
-
-[Parameter11]
 Name=Project_Address2
 Value=230 East Ave. Suite 100
 
+[Parameter3]
+Name=Project_Address3
+Value=Norwalk, CT 06855
+
+[Parameter4]
+Name=Project_Address4
+Value=USA
+
+[Parameter5]
+Name=Project_Assembly_Revision
+Value=A
+
+[Parameter6]
+Name=Project_Author
+Value=EM
+
+[Parameter7]
+Name=Project_BOM_Revision
+Value=A
+
+[Parameter8]
+Name=Project_DesignName
+Value=AC_DC Converter Box
+
+[Parameter9]
+Name=Project_Doc_Class
+Value=WH1
+
+[Parameter10]
+Name=Project_Layout_size
+Value=Letter
+
+[Parameter11]
+Name=Project_Sch_Revision
+Value=A
+
 [Parameter12]
-Name=Project_Address1
-Value=GameChange Solar
+Name=Proyect_Layout_Revision
+Value=A
 
 [Configuration1]
 Name=Sources
@@ -1124,40 +1128,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=AltiumLibraryGCS.IntLib
-ComponentDesignItemID0=CON, PV, Female
-ComponentSymbolReference0=CON, PV, Female
+ComponentDesignItemID0=HDR,1x1,w0.250,0.032, CBL,F
+ComponentSymbolReference0=HDR,1x1,w0.250,0.032, CBL,F
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=AltiumLibraryGCS.IntLib
-ComponentDesignItemID1=CON, PV, Female_ProtectiveCap
-ComponentSymbolReference1=CON, PV, Female_ProtectiveCap
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=AltiumLibraryGCS.IntLib
-ComponentDesignItemID2=CON, PV, Male
-ComponentSymbolReference2=CON, PV, Male
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=AltiumLibraryGCS.IntLib
-ComponentDesignItemID3=CON, PV, Male_ProtectiveCap_1
-ComponentSymbolReference3=CON, PV, Male_ProtectiveCap_1
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=AltiumLibraryGCS.IntLib
-ComponentDesignItemID4=Wire,AC-DC
-ComponentSymbolReference4=Wire,AC-DC
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1171,30 +1151,26 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Alternative source
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Comment
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Component Kind
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=Description
+ParameterName3=GCS PN
 ParameterUpdate3=1
-ParameterName4=GCS PN
+ParameterName4=Library Reference
 ParameterUpdate4=1
-ParameterName5=Library Reference
+ParameterName5=MFR1
 ParameterUpdate5=1
-ParameterName6=MFR1
+ParameterName6=MPN1
 ParameterUpdate6=1
-ParameterName7=MPN1
+ParameterName7=Package
 ParameterUpdate7=1
-ParameterName8=Package
+ParameterName8=Supplier info
 ParameterUpdate8=1
-ParameterName9=Supplier info
+ParameterName9=Tolerance
 ParameterUpdate9=1
-ParameterName10=Tolerance
-ParameterUpdate10=1
-ParameterName11=Voltage/current rating
-ParameterUpdate11=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
