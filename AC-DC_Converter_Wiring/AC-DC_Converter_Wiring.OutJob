@@ -34,7 +34,7 @@ OutputMedium3_Type=GeneratedFiles
 OutputMedium4=Video
 OutputMedium4_Type=Multimedia
 OutputType1=Schematic Print
-OutputName1=ACD_SPD01_SPDHarness
+OutputName1=ACD_ACW01_ACWire
 OutputCategory1=Documentation
 OutputDocumentPath1=
 OutputVariantName1=
@@ -48,9 +48,9 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=C:\Users\EstefaniaMedina\Documents\GitHub\AC-DC Converter Box\AC-DC_Converter_Wiring\AC-DC_Converter_Wiring.SchDoc
 OutputType2=BOM_PartType
-OutputName2=BOM_ACD_SPD01_SPDHarness
+OutputName2=BOM_ACD_ACW01_ACWire
 OutputCategory2=Report
-OutputDocumentPath2=ACD_SPD01_SPDHarness.SchDoc
+OutputDocumentPath2=ACD_ACW01_ACWire.SchDoc
 OutputVariantName2=
 OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
