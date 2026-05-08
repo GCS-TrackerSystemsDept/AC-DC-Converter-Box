@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=AC-DC_Converter_Wiring.SchDoc
+DocumentPath=AC-DC_Box_AssemblyInstructions.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -83,53 +83,138 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document3]
+DocumentPath=Torques.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QLHMAKCS
+
+[Document4]
+DocumentPath=AC-DC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WXDTUBDL
+
+[Document5]
+DocumentPath=AC-DC PS.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ITSSMGYX
+
+[Document6]
+DocumentPath=Cable Organization.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HECNEHSJ
+
+[Document7]
+DocumentPath=Wiring Diagram.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TMLNKURD
+
 [Parameter1]
-Name=Project_Address1
-Value=GameChange Solar
+Name=Proyect_Layout_Revision
+Value=A
 
 [Parameter2]
-Name=Project_Address2
-Value=230 East Ave. Suite 100
-
-[Parameter3]
-Name=Project_Address3
-Value=Norwalk, CT 06855
-
-[Parameter4]
-Name=Project_Address4
-Value=USA
-
-[Parameter5]
-Name=Project_Assembly_Revision
-Value=A
-
-[Parameter6]
-Name=Project_Author
-Value=EM
-
-[Parameter7]
-Name=Project_BOM_Revision
-Value=A
-
-[Parameter8]
-Name=Project_DesignName
-Value=AC_DC Converter Box
-
-[Parameter9]
-Name=Project_Doc_Class
-Value=WH1
-
-[Parameter10]
-Name=Project_Layout_size
-Value=Letter
-
-[Parameter11]
 Name=Project_Sch_Revision
 Value=A
 
-[Parameter12]
-Name=Proyect_Layout_Revision
+[Parameter3]
+Name=Project_Layout_size
+Value=Letter
+
+[Parameter4]
+Name=Project_Doc_Class
+Value=WH1
+
+[Parameter5]
+Name=Project_DesignName
+Value=AC_DC Converter Box
+
+[Parameter6]
+Name=Project_BOM_Revision
 Value=A
+
+[Parameter7]
+Name=Project_Author
+Value=EM
+
+[Parameter8]
+Name=Project_Assembly_Revision
+Value=A
+
+[Parameter9]
+Name=Project_Address4
+Value=USA
+
+[Parameter10]
+Name=Project_Address3
+Value=Norwalk, CT 06855
+
+[Parameter11]
+Name=Project_Address2
+Value=230 East Ave. Suite 100
+
+[Parameter12]
+Name=Project_Address1
+Value=GameChange Solar
 
 [Configuration1]
 Name=Sources
@@ -1102,10 +1187,6 @@ L17=WNNNNNNNWNNNWWWWN
 SortOrder=3
 SortLocation=0
 ReplaceSubparts=0
-MatchParameter1=Comment
-MatchStrictly1=1
-MatchParameter2=Library Reference
-MatchStrictly2=1
 PhysicalNamingFormat=$Component_$RoomName
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
