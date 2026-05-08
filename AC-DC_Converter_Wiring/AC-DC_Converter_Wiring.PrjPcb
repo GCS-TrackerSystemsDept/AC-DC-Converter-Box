@@ -64,10 +64,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LNFTARKZ
+DocumentUniqueId=PWCQAUGY
 
 [Document2]
-DocumentPath=..\AC-DC_Box_Converter_FA.OutJob
+DocumentPath=AC-DC_Converter_Box.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -85,6 +85,10 @@ DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM-AC-DC_Converter_Box.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM\BOM_AC-DC_Converter_Box_2026-05-08.xlsx
 DItemRevisionGUID=
 
 [Parameter1]
