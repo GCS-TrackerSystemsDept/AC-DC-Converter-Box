@@ -54,20 +54,20 @@ Configuration1_Item3=Comment=True|Footprint=True
 Configuration1_Name4=SortOrder
 Configuration1_Item4=Designator=Down
 Configuration1_Name5=VisibleOrder
-Configuration1_Item5=GCS PN=100|Designator=120|QTY=100|Comment=120|Description=120|MFR1=100|MPN1=100|MFR2=100|MPN2=100
+Configuration1_Item5=GCS PN=160|Designator=84|QTY=30|Comment=120|Description=265|MFR1=100|MPN1=100|MFR2=100|MPN2=100
 Configuration1_Name6=VisibleOrder_Flat
-Configuration1_Item6=GCS PN=100|Designator=120|QTY=100|Comment=120|Description=120|MFR1=100|MPN1=100|MFR2=100|MPN2=100
+Configuration1_Item6=GCS PN=160|Designator=84|QTY=30|Comment=120|Description=265|MFR1=100|MPN1=100|MFR2=100|MPN2=100
 
 [PublishSettings]
 OutputFilePath2=
 ReleaseManaged2=1
-OutputBasePath2=
+OutputBasePath2=Project Outputs for AC-DC_Converter_Wiring
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=
+OutputFileName2=AC-DC_Converter_Box.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
@@ -101,7 +101,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=
+OutputBasePath4=Project Outputs for AC-DC_Converter_Wiring
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
