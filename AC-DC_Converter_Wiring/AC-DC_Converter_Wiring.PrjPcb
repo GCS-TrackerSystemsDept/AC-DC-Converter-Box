@@ -92,52 +92,52 @@ DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM_ACD_SPD01_SPDHarness_2026-05-07.
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Project_Address1
-Value=GameChange Solar
+Name=Proyect_Layout_Revision
+Value=B
 
 [Parameter2]
-Name=Project_Address2
-Value=230 East Ave. Suite 100
+Name=Project_Sch_Revision
+Value=B
 
 [Parameter3]
-Name=Project_Address3
-Value=Norwalk, CT 06855
-
-[Parameter4]
-Name=Project_Address4
-Value=USA
-
-[Parameter5]
-Name=Project_Assembly_Revision
-Value=A
-
-[Parameter6]
-Name=Project_Author
-Value=EM
-
-[Parameter7]
-Name=Project_BOM_Revision
-Value=A
-
-[Parameter8]
-Name=Project_DesignName
-Value=AC_DC Converter Box
-
-[Parameter9]
-Name=Project_Doc_Class
-Value=WH1
-
-[Parameter10]
 Name=Project_Layout_size
 Value=Letter
 
+[Parameter4]
+Name=Project_Doc_Class
+Value=WH1
+
+[Parameter5]
+Name=Project_DesignName
+Value=AC_DC Converter Box
+
+[Parameter6]
+Name=Project_BOM_Revision
+Value=B
+
+[Parameter7]
+Name=Project_Author
+Value=EM
+
+[Parameter8]
+Name=Project_Assembly_Revision
+Value=B
+
+[Parameter9]
+Name=Project_Address4
+Value=USA
+
+[Parameter10]
+Name=Project_Address3
+Value=Norwalk, CT 06855
+
 [Parameter11]
-Name=Project_Sch_Revision
-Value=A
+Name=Project_Address2
+Value=230 East Ave. Suite 100
 
 [Parameter12]
-Name=Proyect_Layout_Revision
-Value=A
+Name=Project_Address1
+Value=GameChange Solar
 
 [Configuration1]
 Name=Sources
