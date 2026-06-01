@@ -84,6 +84,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
+DocumentPath=Configurations.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BXNQQEGN
+
+[Document4]
 DocumentPath=Torques.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLHMAKCS
 
-[Document4]
+[Document5]
 DocumentPath=AC-DC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSUPLKSB
 
-[Document5]
+[Document6]
 DocumentPath=AC-DC PS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ITSSMGYX
 
-[Document6]
+[Document7]
 DocumentPath=Cable Organization.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HECNEHSJ
 
-[Document7]
+[Document8]
 DocumentPath=Wiring Diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMLNKURD
 
-[Document8]
+[Document9]
 DocumentPath=Labels.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NEBOMTCO
 
-[Document9]
+[Document10]
 DocumentPath=Feet Installation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FCWOLZLL
 
-[Document10]
+[Document11]
 DocumentPath=AC-DC_Assy.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -220,52 +237,52 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Proyect_Layout_Revision
-Value=B
+Name=Project_Address1
+Value=GameChange Solar
 
 [Parameter2]
-Name=Project_Sch_Revision
-Value=B
-
-[Parameter3]
-Name=Project_Layout_size
-Value=Letter
-
-[Parameter4]
-Name=Project_Doc_Class
-Value=WH1
-
-[Parameter5]
-Name=Project_DesignName
-Value=AC_DC Converter Box
-
-[Parameter6]
-Name=Project_BOM_Revision
-Value=B
-
-[Parameter7]
-Name=Project_Author
-Value=EM
-
-[Parameter8]
-Name=Project_Assembly_Revision
-Value=B
-
-[Parameter9]
-Name=Project_Address4
-Value=USA
-
-[Parameter10]
-Name=Project_Address3
-Value=Norwalk, CT 06855
-
-[Parameter11]
 Name=Project_Address2
 Value=230 East Ave. Suite 100
 
+[Parameter3]
+Name=Project_Address3
+Value=Norwalk, CT 06855
+
+[Parameter4]
+Name=Project_Address4
+Value=USA
+
+[Parameter5]
+Name=Project_Assembly_Revision
+Value=B
+
+[Parameter6]
+Name=Project_Author
+Value=EM
+
+[Parameter7]
+Name=Project_BOM_Revision
+Value=B
+
+[Parameter8]
+Name=Project_DesignName
+Value=AC_DC Converter Box
+
+[Parameter9]
+Name=Project_Doc_Class
+Value=WH1
+
+[Parameter10]
+Name=Project_Layout_size
+Value=Letter
+
+[Parameter11]
+Name=Project_Sch_Revision
+Value=B
+
 [Parameter12]
-Name=Project_Address1
-Value=GameChange Solar
+Name=Proyect_Layout_Revision
+Value=B
 
 [Configuration1]
 Name=Sources
