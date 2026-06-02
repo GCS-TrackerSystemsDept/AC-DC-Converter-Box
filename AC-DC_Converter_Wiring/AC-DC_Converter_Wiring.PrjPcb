@@ -91,6 +91,10 @@ DItemRevisionGUID=
 DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM\BOM_AC-DC_Converter_Box_2026-05-08.xlsx
 DItemRevisionGUID=
 
+[GeneratedDocument3]
+DocumentPath=..\..\..\..\OneDrive\AC-DC Box\GC2034 AC-DC Box Full Assembly Release - 2026_06_02\2-Bill of Materials\BOM_AC-DC_Converter_Box_2026-06-02.xlsx
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Project_Address1
 Value=GameChange Solar
