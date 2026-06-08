@@ -58,7 +58,7 @@ OutputPathOutputer2=
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
 OutputFileName2=Job1.PDF
-OutputFileNameMulti2==OutputName
+OutputFileNameMulti2==OutputName+_+Rev+Project_BOM_Revision
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
 OpenOutput2=1
