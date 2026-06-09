@@ -89,11 +89,11 @@ DItemRevisionGUID=
 
 [Parameter1]
 Name=Proyect_Layout_Revision
-Value=A
+Value=B
 
 [Parameter2]
 Name=Project_Sch_Revision
-Value=A
+Value=B
 
 [Parameter3]
 Name=Project_Layout_size
@@ -109,7 +109,7 @@ Value=AC_DC Converter Box
 
 [Parameter6]
 Name=Project_BOM_Revision
-Value=A
+Value=B
 
 [Parameter7]
 Name=Project_Author
@@ -117,7 +117,7 @@ Value=EM
 
 [Parameter8]
 Name=Project_Assembly_Revision
-Value=A
+Value=B
 
 [Parameter9]
 Name=Project_Address4
