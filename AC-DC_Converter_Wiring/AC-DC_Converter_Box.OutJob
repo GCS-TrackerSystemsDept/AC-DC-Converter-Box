@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=AC-DC_Converter_Box.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -61,7 +61,7 @@ Configuration1_Item6=GCS PN=160|Designator=84|QTY=30|Comment=120|Description=265
 [PublishSettings]
 OutputFilePath2=
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for AC-DC_Converter_Wiring
+OutputBasePath2=Project Outputs for Free Documents
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -86,9 +86,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\EstefaniaMedina\OneDrive\AC-DC Box\GC2034 AC-DC Box Full Assembly Release - 2026_06_02\2-Bill of Materials\
+OutputFilePath3=C:\Users\EstefaniaMedina\OneDrive\AC-DC Box\GC2034 AC-DC Box Full Assembly Release - 2026_08_06\2-Bill of Materials\
 ReleaseManaged3=0
-OutputBasePath3=C:\Users\EstefaniaMedina\OneDrive\AC-DC Box\GC2034 AC-DC Box Full Assembly Release - 2026_06_02\2-Bill of Materials\
+OutputBasePath3=C:\Users\EstefaniaMedina\OneDrive\AC-DC Box\GC2034 AC-DC Box Full Assembly Release - 2026_08_06\2-Bill of Materials\
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=
@@ -101,7 +101,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for AC-DC_Converter_Wiring
+OutputBasePath4=Project Outputs for Free Documents
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -140,7 +140,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\EstefaniaMedina\OneDrive\AC-DC Box\GC2034 AC-DC Box Full Assembly Release - 2026_06_02\2-Bill of Materials\
+RelativeOutputPath3=C:\Users\EstefaniaMedina\OneDrive\AC-DC Box\GC2034 AC-DC Box Full Assembly Release - 2026_08_06\2-Bill of Materials\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
