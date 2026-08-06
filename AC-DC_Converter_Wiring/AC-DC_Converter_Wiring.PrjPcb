@@ -101,6 +101,23 @@ GenerateClassCluster=0
 DocumentUniqueId=BXNQQEGN
 
 [Document4]
+DocumentPath=Glands.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AGIPTALY
+
+[Document5]
 DocumentPath=Torques.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLHMAKCS
 
-[Document5]
+[Document6]
 DocumentPath=AC-DC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSUPLKSB
 
-[Document6]
+[Document7]
 DocumentPath=AC-DC PS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ITSSMGYX
 
-[Document7]
+[Document8]
 DocumentPath=Cable Organization.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HECNEHSJ
 
-[Document8]
+[Document9]
 DocumentPath=Wiring Diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMLNKURD
 
-[Document9]
+[Document10]
 DocumentPath=Labels.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NEBOMTCO
 
-[Document10]
+[Document11]
 DocumentPath=Feet Installation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FCWOLZLL
 
-[Document11]
+[Document12]
 DocumentPath=AC-DC_Assy.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
