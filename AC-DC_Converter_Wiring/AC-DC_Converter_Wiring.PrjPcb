@@ -85,11 +85,11 @@ DocumentUniqueId=
 
 [Parameter1]
 Name=Proyect_Layout_Revision
-Value=C
+Value=D
 
 [Parameter2]
 Name=Project_Sch_Revision
-Value=C
+Value=D
 
 [Parameter3]
 Name=Project_Layout_size
@@ -105,7 +105,7 @@ Value=AC_DC Converter Box
 
 [Parameter6]
 Name=Project_BOM_Revision
-Value=C
+Value=D
 
 [Parameter7]
 Name=Project_Author
@@ -113,7 +113,7 @@ Value=EM
 
 [Parameter8]
 Name=Project_Assembly_Revision
-Value=C
+Value=D
 
 [Parameter9]
 Name=Project_Address4
