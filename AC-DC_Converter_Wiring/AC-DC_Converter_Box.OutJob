@@ -19,7 +19,7 @@ Name=AC-DC_Converter_Box.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
-VariantScope=1
+VariantScope=0
 CurrentConfigurationName=
 TargetPrinter=Brother MFC-L8900CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
@@ -34,10 +34,10 @@ OutputMedium3_Type=GeneratedFiles
 OutputMedium4=Video
 OutputMedium4_Type=Multimedia
 OutputType1=BOM_PartType
-OutputName1=BOM_AC-DC_Converter_Box
+OutputName1=270V
 OutputCategory1=Report
-OutputDocumentPath1=AC-DC_Converter_Box.SchDoc
-OutputVariantName1=
+OutputDocumentPath1=
+OutputVariantName1=270V
 OutputEnabled1=1
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=0
@@ -57,11 +57,83 @@ Configuration1_Name5=VisibleOrder
 Configuration1_Item5=GCS PN=160|Designator=84|QTY=30|Comment=120|Description=265|MFR1=100|MPN1=100|MFR2=100|MPN2=100|MFR3=100|MPN3=100
 Configuration1_Name6=VisibleOrder_Flat
 Configuration1_Item6=GCS PN=160|Designator=84|QTY=30|Comment=120|Description=265|MFR1=100|MPN1=100|MFR2=100|MPN2=100|MFR3=100|MPN3=100
+OutputType2=BOM_PartType
+OutputName2=270V_NS
+OutputCategory2=Report
+OutputDocumentPath2=
+OutputVariantName2=270V_NS
+OutputEnabled2=1
+OutputEnabled2_OutputMedium1=0
+OutputEnabled2_OutputMedium2=0
+OutputEnabled2_OutputMedium3=2
+OutputEnabled2_OutputMedium4=0
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration2_Name1=ColumnNameFormat
+Configuration2_Item1=CaptionAsName
+Configuration2_Name2=General
+Configuration2_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1920|FormHeight=1034|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration2_Name3=GroupOrder
+Configuration2_Item3=GCS PN=True
+Configuration2_Name4=SortOrder
+Configuration2_Item4=Designator=Up|Comment=Up
+Configuration2_Name5=VisibleOrder
+Configuration2_Item5=GCS PN=100|QTY=100|Designator=120|Comment=120|Description=120|MFR1=100|MPN1=100|MFR2=100|MPN2=100|MFR3=100|MPN3=100
+Configuration2_Name6=VisibleOrder_Flat
+Configuration2_Item6=GCS PN=100|QTY=100|Designator=120|Comment=120|Description=120|MFR1=100|MPN1=100|MFR2=100|MPN2=100|MFR3=100|MPN3=100
+OutputType3=BOM_PartType
+OutputName3=240V
+OutputCategory3=Report
+OutputDocumentPath3=
+OutputVariantName3=240V
+OutputEnabled3=1
+OutputEnabled3_OutputMedium1=0
+OutputEnabled3_OutputMedium2=0
+OutputEnabled3_OutputMedium3=4
+OutputEnabled3_OutputMedium4=0
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration3_Name1=ColumnNameFormat
+Configuration3_Item1=CaptionAsName
+Configuration3_Name2=General
+Configuration3_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1920|FormHeight=1034|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration3_Name3=GroupOrder
+Configuration3_Item3=Comment=True|Footprint=True
+Configuration3_Name4=SortOrder
+Configuration3_Item4=Designator=Up|Comment=Up
+Configuration3_Name5=VisibleOrder
+Configuration3_Item5=GCS PN=100|QTY=100|Designator=120|Comment=120|Description=120|MFR1=100|MPN1=100|MFR2=100|MPN2=100|MFR3=100|MPN3=100
+Configuration3_Name6=VisibleOrder_Flat
+Configuration3_Item6=GCS PN=100|QTY=100|Designator=120|Comment=120|Description=120|MFR1=100|MPN1=100|MFR2=100|MPN2=100|MFR3=100|MPN3=100
+OutputType4=BOM_PartType
+OutputName4=240V_NS
+OutputCategory4=Report
+OutputDocumentPath4=
+OutputVariantName4=240V_NS
+OutputEnabled4=1
+OutputEnabled4_OutputMedium1=0
+OutputEnabled4_OutputMedium2=0
+OutputEnabled4_OutputMedium3=3
+OutputEnabled4_OutputMedium4=0
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration4_Name1=ColumnNameFormat
+Configuration4_Item1=CaptionAsName
+Configuration4_Name2=General
+Configuration4_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1920|FormHeight=1034|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration4_Name3=GroupOrder
+Configuration4_Item3=Comment=True|Footprint=True
+Configuration4_Name4=SortOrder
+Configuration4_Item4=QTY=Up
+Configuration4_Name5=VisibleOrder
+Configuration4_Item5=GCS PN=119|QTY=45|Designator=69|Comment=120|Description=120|MFR1=100|MPN1=100|MFR2=100|MPN2=100|MFR3=100|MPN3=100
+Configuration4_Name6=VisibleOrder_Flat
+Configuration4_Item6=GCS PN=119|QTY=45|Designator=69|Comment=120|Description=120|MFR1=100|MPN1=100|MFR2=100|MPN2=100|MFR3=100|MPN3=100
 
 [PublishSettings]
 OutputFilePath2=
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for Free Documents
+OutputBasePath2=Project Outputs for AC-DC_Converter_Wiring
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -86,22 +158,22 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\EstefaniaMedina\OneDrive\AC-DC Box\GC2034 AC-DC Box Full Assembly Release - 2026_08_06\2-Bill of Materials\
+OutputFilePath3=C:\Users\EstefaniaMedina\OneDrive\AC-DC Box\BOM\
 ReleaseManaged3=0
-OutputBasePath3=C:\Users\EstefaniaMedina\OneDrive\AC-DC Box\GC2034 AC-DC Box Full Assembly Release - 2026_08_06\2-Bill of Materials\
+OutputBasePath3=C:\Users\EstefaniaMedina\OneDrive\AC-DC Box\BOM\
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=
 OutputPathOutputerPrefix3=
 OutputPathOutputerValue3=
 OutputFileName3=
-OutputFileNameMulti3==OutputName+_+CurrentDate
+OutputFileNameMulti3=='BOM'+_+Project_DesignName+_+VariantName+'_'+CurrentDate+_+RevA
 UseOutputNameForMulti3=0
 OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for Free Documents
+OutputBasePath4=Project Outputs for AC-DC_Converter_Wiring
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -140,7 +212,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\EstefaniaMedina\OneDrive\AC-DC Box\GC2034 AC-DC Box Full Assembly Release - 2026_08_06\2-Bill of Materials\
+RelativeOutputPath3=C:\Users\EstefaniaMedina\OneDrive\AC-DC Box\BOM\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
