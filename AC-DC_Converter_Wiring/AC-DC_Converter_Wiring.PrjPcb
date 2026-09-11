@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LNFTARKZ
 
 [Document2]
-DocumentPath=AC-DC_Converter_Wiring.OutJob
+DocumentPath=AC-DC_Converter_Wiring-240V.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -85,11 +85,11 @@ DocumentUniqueId=
 
 [Parameter1]
 Name=Proyect_Layout_Revision
-Value=D
+Value=A
 
 [Parameter2]
 Name=Project_Sch_Revision
-Value=D
+Value=A
 
 [Parameter3]
 Name=Project_Layout_size
@@ -101,11 +101,11 @@ Value=WH1
 
 [Parameter5]
 Name=Project_DesignName
-Value=AC_DC Converter Box
+Value=AC_DC Converter Box_Wiring Diagram 240V
 
 [Parameter6]
 Name=Project_BOM_Revision
-Value=D
+Value=A
 
 [Parameter7]
 Name=Project_Author
@@ -113,7 +113,7 @@ Value=EM
 
 [Parameter8]
 Name=Project_Assembly_Revision
-Value=D
+Value=A
 
 [Parameter9]
 Name=Project_Address4
