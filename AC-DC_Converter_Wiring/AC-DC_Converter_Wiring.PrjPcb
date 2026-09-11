@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=240V_NS
 
 [Preferences]
 PrefsVaultGUID=
@@ -83,6 +84,329 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueId=707BED67-9146-4951-A95D-FE8158D794F2
+Description=240V_NS
+AllowFabrication=0
+ParameterCount=0
+VariationCount=6
+Variation1=Designator=FA3|UniqueId=\HJYIWDTK|Kind=2|AlternatePart=Fuse Cartridge|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\EstefaniaMedina\Documents\GitHub\Altium-Library\Project Outputs for AltiumLibraryGCS\AltiumLibraryGCS.IntLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=FA,Fuse Cartridge|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLibraryGCS.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Comment|VariantValue=Fuse Cartridge
+ParamDesignator1=FA3
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=FA3
+ParamVariation3=ParameterName=Description|VariantValue=3 A 250 V AC DC Fuse Cartridge, Glass Requires Holder 3AB, 3AG, 1/4" x 1-1/4"
+ParamDesignator3=FA3
+ParamVariation4=ParameterName=Footprint|VariantValue=
+ParamDesignator4=FA3
+ParamVariation5=ParameterName=GCS PN|VariantValue=MC040
+ParamDesignator5=FA3
+ParamVariation6=ParameterName=Ibis Model|VariantValue=
+ParamDesignator6=FA3
+ParamVariation7=ParameterName=Library Reference|VariantValue=FA,Fuse Cartridge
+ParamDesignator7=FA3
+ParamVariation8=ParameterName=MFR1|VariantValue=Littelfuse
+ParamDesignator8=FA3
+ParamVariation9=ParameterName=MFR2|VariantValue=
+ParamDesignator9=FA3
+ParamVariation10=ParameterName=MPN1|VariantValue=0312003.HXP
+ParamDesignator10=FA3
+ParamVariation11=ParameterName=MPN2|VariantValue=
+ParamDesignator11=FA3
+ParamVariation12=ParameterName=Package|VariantValue=
+ParamDesignator12=FA3
+ParamVariation13=ParameterName=PCB3D|VariantValue=
+ParamDesignator13=FA3
+ParamVariation14=ParameterName=Pin Info|VariantValue=
+ParamDesignator14=FA3
+ParamVariation15=ParameterName=QTY|VariantValue=1
+ParamDesignator15=FA3
+ParamVariation16=ParameterName=Sigmatron PN|VariantValue=
+ParamDesignator16=FA3
+ParamVariation17=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator17=FA3
+ParamVariation18=ParameterName=Simulation|VariantValue=
+ParamDesignator18=FA3
+ParamVariation19=ParameterName=Supplier info|VariantValue=
+ParamDesignator19=FA3
+Variation2=Designator=FA2|UniqueId=\WNSAJVIB|Kind=2|AlternatePart=48V Pwr Supply LyteII|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\EstefaniaMedina\Documents\GitHub\Altium-Library\Project Outputs for AltiumLibraryGCS\AltiumLibraryGCS.IntLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=FA,48V Power Supply,LyteII|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLibraryGCS.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=|AltLibLink_IsSameFootprint=False
+ParamVariation20=ParameterName=Comment|VariantValue=48V Pwr Supply LyteII
+ParamDesignator20=FA2
+ParamVariation21=ParameterName=Component Kind|VariantValue=Mechanical
+ParamDesignator21=FA2
+ParamVariation22=ParameterName=Description|VariantValue=AC/DC Delta Electronics DRL-48V120W1EN Power Supply, 48V, 120W, DIN Rail, 4.87L, 1.18W, 4.6H, LYTEII Series
+ParamDesignator22=FA2
+ParamVariation23=ParameterName=Footprint|VariantValue=
+ParamDesignator23=FA2
+ParamVariation24=ParameterName=GCS PN|VariantValue=CMPSF00372-48V1A
+ParamDesignator24=FA2
+ParamVariation25=ParameterName=Ibis Model|VariantValue=
+ParamDesignator25=FA2
+ParamVariation26=ParameterName=Library Reference|VariantValue=FA,48V Power Supply,LyteII
+ParamDesignator26=FA2
+ParamVariation27=ParameterName=MFR1|VariantValue=Delta Electronics
+ParamDesignator27=FA2
+ParamVariation28=ParameterName=MFR2|VariantValue=
+ParamDesignator28=FA2
+ParamVariation29=ParameterName=MFR3|VariantValue=
+ParamDesignator29=FA2
+ParamVariation30=ParameterName=MPN1|VariantValue=DRL-48V120W1ENA
+ParamDesignator30=FA2
+ParamVariation31=ParameterName=MPN2|VariantValue=
+ParamDesignator31=FA2
+ParamVariation32=ParameterName=MPN3|VariantValue=
+ParamDesignator32=FA2
+ParamVariation33=ParameterName=Package|VariantValue=
+ParamDesignator33=FA2
+ParamVariation34=ParameterName=PCB3D|VariantValue=
+ParamDesignator34=FA2
+ParamVariation35=ParameterName=Pin Info|VariantValue=
+ParamDesignator35=FA2
+ParamVariation36=ParameterName=QTY|VariantValue=1
+ParamDesignator36=FA2
+ParamVariation37=ParameterName=Sigmatron PN|VariantValue=
+ParamDesignator37=FA2
+ParamVariation38=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator38=FA2
+ParamVariation39=ParameterName=Simulation|VariantValue=
+ParamDesignator39=FA2
+ParamVariation40=ParameterName=Supplier info|VariantValue=
+ParamDesignator40=FA2
+Variation3=Designator=FA6|UniqueId=\QHOADAHV|Kind=2|AlternatePart=Fuse Holder,16A,250V|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\EstefaniaMedina\Documents\GitHub\Altium-Library\Project Outputs for AltiumLibraryGCS\AltiumLibraryGCS.IntLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=FA,Fuse Holder,16A,250V|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLibraryGCS.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=|AltLibLink_IsSameFootprint=False
+ParamVariation41=ParameterName=Comment|VariantValue=Fuse Holder,16A,250V
+ParamDesignator41=FA6
+ParamVariation42=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator42=FA6
+ParamVariation43=ParameterName=Description|VariantValue=Fuse Holder 16A 250V 1 Circuit Cartridge Panel Mount.
+ParamDesignator43=FA6
+ParamVariation44=ParameterName=Footprint|VariantValue=
+ParamDesignator44=FA6
+ParamVariation45=ParameterName=GCS PN|VariantValue=MC041
+ParamDesignator45=FA6
+ParamVariation46=ParameterName=Ibis Model|VariantValue=
+ParamDesignator46=FA6
+ParamVariation47=ParameterName=Library Reference|VariantValue=FA,Fuse Holder,16A,250V
+ParamDesignator47=FA6
+ParamVariation48=ParameterName=MFR1|VariantValue=Bulgin
+ParamDesignator48=FA6
+ParamVariation49=ParameterName=MFR2|VariantValue=Hinew
+ParamDesignator49=FA6
+ParamVariation50=ParameterName=MPN1|VariantValue=FX0419
+ParamDesignator50=FA6
+ParamVariation51=ParameterName=MPN2|VariantValue=HX19FH
+ParamDesignator51=FA6
+ParamVariation52=ParameterName=Package|VariantValue=
+ParamDesignator52=FA6
+ParamVariation53=ParameterName=PCB3D|VariantValue=
+ParamDesignator53=FA6
+ParamVariation54=ParameterName=Pin Info|VariantValue=
+ParamDesignator54=FA6
+ParamVariation55=ParameterName=QTY|VariantValue=1
+ParamDesignator55=FA6
+ParamVariation56=ParameterName=Sigmatron PN|VariantValue=
+ParamDesignator56=FA6
+ParamVariation57=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator57=FA6
+ParamVariation58=ParameterName=Simulation|VariantValue=
+ParamDesignator58=FA6
+ParamVariation59=ParameterName=Supplier info|VariantValue=
+ParamDesignator59=FA6
+Variation4=Designator=FA4|UniqueId=\MZALGGEC|Kind=1|AlternatePart=
+Variation5=Designator=FA5|UniqueId=\LXNLZVFB|Kind=1|AlternatePart=
+Variation6=Designator=FA26|UniqueId=\XQHEJSLD|Kind=1|AlternatePart=
+ParamVariationCount=59
+
+[ProjectVariant2]
+UniqueId=2cd6b503-170a-48e0-a206-819dbff183a8
+Description=277V
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=FA25|UniqueId=\QOFVDDGT|Kind=1|AlternatePart=
+Variation2=Designator=FA26|UniqueId=\XQHEJSLD|Kind=1|AlternatePart=
+ParamVariationCount=0
+
+[ProjectVariant3]
+UniqueId=cc7b3772-8acd-4c20-8e02-ea6036886609
+Description=240V
+AllowFabrication=0
+ParameterCount=0
+VariationCount=6
+Variation1=Designator=FA3|UniqueId=\HJYIWDTK|Kind=2|AlternatePart=Fuse Cartridge|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\EstefaniaMedina\Documents\GitHub\Altium-Library\Project Outputs for AltiumLibraryGCS\AltiumLibraryGCS.IntLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=FA,Fuse Cartridge|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLibraryGCS.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Comment|VariantValue=Fuse Cartridge
+ParamDesignator1=FA3
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=FA3
+ParamVariation3=ParameterName=Description|VariantValue=3 A 250 V AC DC Fuse Cartridge, Glass Requires Holder 3AB, 3AG, 1/4" x 1-1/4"
+ParamDesignator3=FA3
+ParamVariation4=ParameterName=Footprint|VariantValue=
+ParamDesignator4=FA3
+ParamVariation5=ParameterName=GCS PN|VariantValue=MC040
+ParamDesignator5=FA3
+ParamVariation6=ParameterName=Ibis Model|VariantValue=
+ParamDesignator6=FA3
+ParamVariation7=ParameterName=Library Reference|VariantValue=FA,Fuse Cartridge
+ParamDesignator7=FA3
+ParamVariation8=ParameterName=MFR1|VariantValue=Littelfuse
+ParamDesignator8=FA3
+ParamVariation9=ParameterName=MFR2|VariantValue=
+ParamDesignator9=FA3
+ParamVariation10=ParameterName=MPN1|VariantValue=0312003.HXP
+ParamDesignator10=FA3
+ParamVariation11=ParameterName=MPN2|VariantValue=
+ParamDesignator11=FA3
+ParamVariation12=ParameterName=Package|VariantValue=
+ParamDesignator12=FA3
+ParamVariation13=ParameterName=PCB3D|VariantValue=
+ParamDesignator13=FA3
+ParamVariation14=ParameterName=Pin Info|VariantValue=
+ParamDesignator14=FA3
+ParamVariation15=ParameterName=QTY|VariantValue=1
+ParamDesignator15=FA3
+ParamVariation16=ParameterName=Sigmatron PN|VariantValue=
+ParamDesignator16=FA3
+ParamVariation17=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator17=FA3
+ParamVariation18=ParameterName=Simulation|VariantValue=
+ParamDesignator18=FA3
+ParamVariation19=ParameterName=Supplier info|VariantValue=
+ParamDesignator19=FA3
+Variation2=Designator=FA2|UniqueId=\WNSAJVIB|Kind=2|AlternatePart=48V Pwr Supply LyteII|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\EstefaniaMedina\Documents\GitHub\Altium-Library\Project Outputs for AltiumLibraryGCS\AltiumLibraryGCS.IntLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=FA,48V Power Supply,LyteII|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLibraryGCS.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=|AltLibLink_IsSameFootprint=False
+ParamVariation20=ParameterName=Comment|VariantValue=48V Pwr Supply LyteII
+ParamDesignator20=FA2
+ParamVariation21=ParameterName=Component Kind|VariantValue=Mechanical
+ParamDesignator21=FA2
+ParamVariation22=ParameterName=Description|VariantValue=AC/DC Delta Electronics DRL-48V120W1EN Power Supply, 48V, 120W, DIN Rail, 4.87L, 1.18W, 4.6H, LYTEII Series
+ParamDesignator22=FA2
+ParamVariation23=ParameterName=Footprint|VariantValue=
+ParamDesignator23=FA2
+ParamVariation24=ParameterName=GCS PN|VariantValue=CMPSF00372-48V1A
+ParamDesignator24=FA2
+ParamVariation25=ParameterName=Ibis Model|VariantValue=
+ParamDesignator25=FA2
+ParamVariation26=ParameterName=Library Reference|VariantValue=FA,48V Power Supply,LyteII
+ParamDesignator26=FA2
+ParamVariation27=ParameterName=MFR1|VariantValue=Delta Electronics
+ParamDesignator27=FA2
+ParamVariation28=ParameterName=MFR2|VariantValue=
+ParamDesignator28=FA2
+ParamVariation29=ParameterName=MFR3|VariantValue=
+ParamDesignator29=FA2
+ParamVariation30=ParameterName=MPN1|VariantValue=DRL-48V120W1ENA
+ParamDesignator30=FA2
+ParamVariation31=ParameterName=MPN2|VariantValue=
+ParamDesignator31=FA2
+ParamVariation32=ParameterName=MPN3|VariantValue=
+ParamDesignator32=FA2
+ParamVariation33=ParameterName=Package|VariantValue=
+ParamDesignator33=FA2
+ParamVariation34=ParameterName=PCB3D|VariantValue=
+ParamDesignator34=FA2
+ParamVariation35=ParameterName=Pin Info|VariantValue=
+ParamDesignator35=FA2
+ParamVariation36=ParameterName=QTY|VariantValue=1
+ParamDesignator36=FA2
+ParamVariation37=ParameterName=Sigmatron PN|VariantValue=
+ParamDesignator37=FA2
+ParamVariation38=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator38=FA2
+ParamVariation39=ParameterName=Simulation|VariantValue=
+ParamDesignator39=FA2
+ParamVariation40=ParameterName=Supplier info|VariantValue=
+ParamDesignator40=FA2
+Variation3=Designator=FA6|UniqueId=\QHOADAHV|Kind=2|AlternatePart=Fuse Holder,16A,250V|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\EstefaniaMedina\Documents\GitHub\Altium-Library\Project Outputs for AltiumLibraryGCS\AltiumLibraryGCS.IntLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=FA,Fuse Holder,16A,250V|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLibraryGCS.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=|AltLibLink_IsSameFootprint=False
+ParamVariation41=ParameterName=Comment|VariantValue=Fuse Holder,16A,250V
+ParamDesignator41=FA6
+ParamVariation42=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator42=FA6
+ParamVariation43=ParameterName=Description|VariantValue=Fuse Holder 16A 250V 1 Circuit Cartridge Panel Mount.
+ParamDesignator43=FA6
+ParamVariation44=ParameterName=Footprint|VariantValue=
+ParamDesignator44=FA6
+ParamVariation45=ParameterName=GCS PN|VariantValue=MC041
+ParamDesignator45=FA6
+ParamVariation46=ParameterName=Ibis Model|VariantValue=
+ParamDesignator46=FA6
+ParamVariation47=ParameterName=Library Reference|VariantValue=FA,Fuse Holder,16A,250V
+ParamDesignator47=FA6
+ParamVariation48=ParameterName=MFR1|VariantValue=Bulgin
+ParamDesignator48=FA6
+ParamVariation49=ParameterName=MFR2|VariantValue=Hinew
+ParamDesignator49=FA6
+ParamVariation50=ParameterName=MPN1|VariantValue=FX0419
+ParamDesignator50=FA6
+ParamVariation51=ParameterName=MPN2|VariantValue=HX19FH
+ParamDesignator51=FA6
+ParamVariation52=ParameterName=Package|VariantValue=
+ParamDesignator52=FA6
+ParamVariation53=ParameterName=PCB3D|VariantValue=
+ParamDesignator53=FA6
+ParamVariation54=ParameterName=Pin Info|VariantValue=
+ParamDesignator54=FA6
+ParamVariation55=ParameterName=QTY|VariantValue=1
+ParamDesignator55=FA6
+ParamVariation56=ParameterName=Sigmatron PN|VariantValue=
+ParamDesignator56=FA6
+ParamVariation57=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator57=FA6
+ParamVariation58=ParameterName=Simulation|VariantValue=
+ParamDesignator58=FA6
+ParamVariation59=ParameterName=Supplier info|VariantValue=
+ParamDesignator59=FA6
+Variation4=Designator=FA4|UniqueId=\MZALGGEC|Kind=2|AlternatePart=Surge Suppressor SP|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\EstefaniaMedina\Documents\GitHub\Altium-Library\Project Outputs for AltiumLibraryGCS\AltiumLibraryGCS.IntLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=FA,Surge Suppressor SP|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLibraryGCS.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=|AltLibLink_IsSameFootprint=False
+ParamVariation60=ParameterName=Comment|VariantValue=Surge Suppressor SP
+ParamDesignator60=FA4
+ParamVariation61=ParameterName=Component Kind|VariantValue=Mechanical
+ParamDesignator61=FA4
+ParamVariation62=ParameterName=Description|VariantValue=Surge Suppressors SINGLE POLE 240V 20kA
+ParamDesignator62=FA4
+ParamVariation63=ParameterName=Footprint|VariantValue=
+ParamDesignator63=FA4
+ParamVariation64=ParameterName=GCS PN|VariantValue=PRTSF00132-SPD3A
+ParamDesignator64=FA4
+ParamVariation65=ParameterName=Ibis Model|VariantValue=
+ParamDesignator65=FA4
+ParamVariation66=ParameterName=Library Reference|VariantValue=FA,Surge Suppressor SP
+ParamDesignator66=FA4
+ParamVariation67=ParameterName=MFR1|VariantValue=WEIDMÜLLER
+ParamDesignator67=FA4
+ParamVariation68=ParameterName=MFR2|VariantValue=Littelfuse
+ParamDesignator68=FA4
+ParamVariation69=ParameterName=MPN1|VariantValue=2736310000
+ParamDesignator69=FA4
+ParamVariation70=ParameterName=MPN2|VariantValue=SPD2-300-1P0-R
+ParamDesignator70=FA4
+ParamVariation71=ParameterName=Package|VariantValue=
+ParamDesignator71=FA4
+ParamVariation72=ParameterName=PCB3D|VariantValue=
+ParamDesignator72=FA4
+ParamVariation73=ParameterName=Pin Info|VariantValue=
+ParamDesignator73=FA4
+ParamVariation74=ParameterName=QTY|VariantValue=1
+ParamDesignator74=FA4
+ParamVariation75=ParameterName=Sigmatron PN|VariantValue=
+ParamDesignator75=FA4
+ParamVariation76=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator76=FA4
+ParamVariation77=ParameterName=Simulation|VariantValue=
+ParamDesignator77=FA4
+ParamVariation78=ParameterName=Supplier info|VariantValue=
+ParamDesignator78=FA4
+Variation5=Designator=FA5|UniqueId=\LXNLZVFB|Kind=1|AlternatePart=
+Variation6=Designator=FA21|UniqueId=\FBMNRGDG|Kind=1|AlternatePart=
+ParamVariationCount=78
+
+[ProjectVariant4]
+UniqueId=8a865fd5-70e6-46c3-9968-a0a85860b1e4
+Description=277V_NS
+AllowFabrication=0
+ParameterCount=0
+VariationCount=3
+Variation1=Designator=FA4|UniqueId=\MZALGGEC|Kind=1|AlternatePart=
+Variation2=Designator=FA25|UniqueId=\QOFVDDGT|Kind=1|AlternatePart=
+Variation3=Designator=FA26|UniqueId=\XQHEJSLD|Kind=1|AlternatePart=
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM-AC-DC_Converter_Box.xlsx
 DItemRevisionGUID=
@@ -93,6 +417,22 @@ DItemRevisionGUID=
 
 [GeneratedDocument3]
 DocumentPath=..\..\..\..\OneDrive\AC-DC Box\GC2034 AC-DC Box Full Assembly Release - 2026_06_02\2-Bill of Materials\BOM_AC-DC_Converter_Box_2026-06-02.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM\BOM_AC_DC Converter Box_240V_2026-09-10_RevA.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM\BOM_AC_DC Converter Box_240V_NS_2026-09-10_RevA.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM\BOM_AC_DC Converter Box_270V_2026-09-10_RevA.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM\BOM_AC_DC Converter Box_270V_NS_2026-09-10_RevA.xlsx
 DItemRevisionGUID=
 
 [Parameter1]
@@ -1132,10 +1472,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=AltiumLibraryGCS.IntLib
+ComponentDesignItemID0=FA,AC Line SPD 2 pole
+ComponentSymbolReference0=FA,AC Line SPD 2 pole
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1149,6 +1495,32 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=GCS PN
+ParameterUpdate3=1
+ParameterName4=Library Reference
+ParameterUpdate4=1
+ParameterName5=MFR1
+ParameterUpdate5=1
+ParameterName6=MFR2
+ParameterUpdate6=1
+ParameterName7=MPN1
+ParameterUpdate7=1
+ParameterName8=MPN2
+ParameterUpdate8=1
+ParameterName9=Package
+ParameterUpdate9=1
+ParameterName10=QTY
+ParameterUpdate10=1
+ParameterName11=Sigmatron PN
+ParameterUpdate11=1
+ParameterName12=Supplier info
+ParameterUpdate12=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
