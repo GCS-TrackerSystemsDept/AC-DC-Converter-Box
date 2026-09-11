@@ -44,7 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=240V
+CurrentVariant=277V_NS
 
 [Preferences]
 PrefsVaultGUID=
@@ -89,7 +89,7 @@ UniqueId=707BED67-9146-4951-A95D-FE8158D794F2
 Description=240V_NS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=7
+VariationCount=9
 Variation1=Designator=FA3|UniqueId=\HJYIWDTK|Kind=2|AlternatePart=Fuse Cartridge|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\EstefaniaMedina\Documents\GitHub\Altium-Library\Project Outputs for AltiumLibraryGCS\AltiumLibraryGCS.IntLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=FA,Fuse Cartridge|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLibraryGCS.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=|AltLibLink_IsSameFootprint=False
 ParamVariation1=ParameterName=Comment|VariantValue=Fuse Cartridge
 ParamDesignator1=FA3
@@ -215,6 +215,8 @@ Variation4=Designator=FA4|UniqueId=\MZALGGEC|Kind=1|AlternatePart=
 Variation5=Designator=FA5|UniqueId=\LXNLZVFB|Kind=1|AlternatePart=
 Variation6=Designator=FA26|UniqueId=\XQHEJSLD|Kind=1|AlternatePart=
 Variation7=Designator=FA18|UniqueId=\QFZMOPDS|Kind=1|AlternatePart=
+Variation8=Designator=FA30|UniqueId=\QUXHRZDI|Kind=1|AlternatePart=
+Variation9=Designator=FA29|UniqueId=\ISLRGHEK|Kind=1|AlternatePart=
 ParamVariationCount=59
 
 [ProjectVariant2]
@@ -222,10 +224,12 @@ UniqueId=2cd6b503-170a-48e0-a206-819dbff183a8
 Description=277V
 AllowFabrication=0
 ParameterCount=0
-VariationCount=3
+VariationCount=5
 Variation1=Designator=FA25|UniqueId=\QOFVDDGT|Kind=1|AlternatePart=
 Variation2=Designator=FA26|UniqueId=\XQHEJSLD|Kind=1|AlternatePart=
 Variation3=Designator=FA29|UniqueId=\ISLRGHEK|Kind=1|AlternatePart=
+Variation4=Designator=FA30|UniqueId=\QUXHRZDI|Kind=1|AlternatePart=
+Variation5=Designator=FA31|UniqueId=\QCFJCMID|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant3]
@@ -233,7 +237,7 @@ UniqueId=cc7b3772-8acd-4c20-8e02-ea6036886609
 Description=240V
 AllowFabrication=0
 ParameterCount=0
-VariationCount=7
+VariationCount=9
 Variation1=Designator=FA3|UniqueId=\HJYIWDTK|Kind=2|AlternatePart=Fuse Cartridge|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\EstefaniaMedina\Documents\GitHub\Altium-Library\Project Outputs for AltiumLibraryGCS\AltiumLibraryGCS.IntLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=FA,Fuse Cartridge|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLibraryGCS.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=|AltLibLink_IsSameFootprint=False
 ParamVariation1=ParameterName=Comment|VariantValue=Fuse Cartridge
 ParamDesignator1=FA3
@@ -397,6 +401,8 @@ ParamDesignator78=FA4
 Variation5=Designator=FA5|UniqueId=\LXNLZVFB|Kind=1|AlternatePart=
 Variation6=Designator=FA21|UniqueId=\FBMNRGDG|Kind=1|AlternatePart=
 Variation7=Designator=FA18|UniqueId=\QFZMOPDS|Kind=1|AlternatePart=
+Variation8=Designator=FA30|UniqueId=\QUXHRZDI|Kind=1|AlternatePart=
+Variation9=Designator=FA31|UniqueId=\QCFJCMID|Kind=1|AlternatePart=
 ParamVariationCount=78
 
 [ProjectVariant4]
@@ -404,11 +410,13 @@ UniqueId=8a865fd5-70e6-46c3-9968-a0a85860b1e4
 Description=277V_NS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=4
+VariationCount=6
 Variation1=Designator=FA4|UniqueId=\MZALGGEC|Kind=1|AlternatePart=
 Variation2=Designator=FA25|UniqueId=\QOFVDDGT|Kind=1|AlternatePart=
 Variation3=Designator=FA26|UniqueId=\XQHEJSLD|Kind=1|AlternatePart=
 Variation4=Designator=FA29|UniqueId=\ISLRGHEK|Kind=1|AlternatePart=
+Variation5=Designator=FA18|UniqueId=\QFZMOPDS|Kind=1|AlternatePart=
+Variation6=Designator=FA31|UniqueId=\QCFJCMID|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
