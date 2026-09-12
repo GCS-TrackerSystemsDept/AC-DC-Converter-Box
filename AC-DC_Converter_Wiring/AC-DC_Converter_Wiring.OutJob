@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=AC-DC_Converter_Wiring.OutJob
 Description=
-TargetOutputMedium=PDF
+TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=Brother MFC-L8900CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -38,7 +38,7 @@ OutputName1=ACD_SPD02_SPDHarness
 OutputCategory1=Documentation
 OutputDocumentPath1=
 OutputVariantName1=
-OutputEnabled1=1
+OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=1
 OutputEnabled1_OutputMedium3=0
@@ -52,7 +52,7 @@ OutputName2=BOM_ACD_SPD02_SPDHarness
 OutputCategory2=Report
 OutputDocumentPath2=ACD_SPD02_SPDHarness.SchDoc
 OutputVariantName2=
-OutputEnabled2=0
+OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=1
@@ -68,9 +68,9 @@ Configuration2_Item3=GCS PN=True|Comment=True
 Configuration2_Name4=SortOrder
 Configuration2_Item4=Designator=Up|Comment=Up
 Configuration2_Name5=VisibleOrder
-Configuration2_Item5=GCS PN=100|Designator=120|Quantity=120|Comment=346|Description=578|MFR1=100|MPN1=100
+Configuration2_Item5=GCS PN=100|Designator=120|Quantity=120|Comment=346|Description=578|MFR1=100|MPN1=100|MFR2=100|MPN2=100
 Configuration2_Name6=VisibleOrder_Flat
-Configuration2_Item6=GCS PN=100|Designator=120|Quantity=120|Comment=346|Description=578|MFR1=100|MPN1=100
+Configuration2_Item6=GCS PN=100|Designator=120|Quantity=120|Comment=346|Description=578|MFR1=100|MPN1=100|MFR2=100|MPN2=100
 
 [PublishSettings]
 OutputFilePath2=C:\Users\EstefaniaMedina\OneDrive\AC-DC Box\
