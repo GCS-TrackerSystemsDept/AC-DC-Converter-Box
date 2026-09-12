@@ -288,7 +288,7 @@ Value=WH1
 
 [Parameter5]
 Name=Project_DesignName
-Value=AC_DC Converter Box
+Value=AC-DC_Box_Assembly instructions_240V
 
 [Parameter6]
 Name=Project_BOM_Revision
