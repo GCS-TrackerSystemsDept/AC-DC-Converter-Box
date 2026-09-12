@@ -271,52 +271,52 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Project_Address1
-Value=GameChange Solar
+Name=Proyect_Layout_Revision
+Value=A
 
 [Parameter2]
-Name=Project_Address2
-Value=230 East Ave. Suite 100
-
-[Parameter3]
-Name=Project_Address3
-Value=Norwalk, CT 06855
-
-[Parameter4]
-Name=Project_Address4
-Value=USA
-
-[Parameter5]
-Name=Project_Assembly_Revision
-Value=A
-
-[Parameter6]
-Name=Project_Author
-Value=AH
-
-[Parameter7]
-Name=Project_BOM_Revision
-Value=A
-
-[Parameter8]
-Name=Project_DesignName
-Value=AC-DC_Box_Assembly instructions_240V
-
-[Parameter9]
-Name=Project_Doc_Class
-Value=WH1
-
-[Parameter10]
-Name=Project_Layout_size
-Value=Letter
-
-[Parameter11]
 Name=Project_Sch_Revision
 Value=A
 
-[Parameter12]
-Name=Proyect_Layout_Revision
+[Parameter3]
+Name=Project_Layout_size
+Value=Letter
+
+[Parameter4]
+Name=Project_Doc_Class
+Value=WH1
+
+[Parameter5]
+Name=Project_DesignName
+Value=AC-DC_Box_Assembly instructions_277V
+
+[Parameter6]
+Name=Project_BOM_Revision
 Value=A
+
+[Parameter7]
+Name=Project_Author
+Value=AH
+
+[Parameter8]
+Name=Project_Assembly_Revision
+Value=A
+
+[Parameter9]
+Name=Project_Address4
+Value=USA
+
+[Parameter10]
+Name=Project_Address3
+Value=Norwalk, CT 06855
+
+[Parameter11]
+Name=Project_Address2
+Value=230 East Ave. Suite 100
+
+[Parameter12]
+Name=Project_Address1
+Value=GameChange Solar
 
 [Configuration1]
 Name=Sources
