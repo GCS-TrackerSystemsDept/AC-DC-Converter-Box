@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=ACD_SPD02_SPDHarness.SchDoc
+DocumentPath=ACD_SPD02_240V_SPDHarness.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -91,53 +91,61 @@ DItemRevisionGUID=
 DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM_ACD_SPD01_SPDHarness_2026-05-07.xlsx
 DItemRevisionGUID=
 
+[GeneratedDocument3]
+DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM_ACD_SPD02_240V_SPDHarness_2026-09-12.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM_ACD_SPD02_SPDHarness_2026-09-12.xlsx
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Proyect_Layout_Revision
-Value=A
+Name=Project_Address1
+Value=GameChange Solar
 
 [Parameter2]
-Name=Project_Sch_Revision
-Value=A
-
-[Parameter3]
-Name=Project_Layout_size
-Value=Letter
-
-[Parameter4]
-Name=Project_Doc_Class
-Value=WH1
-
-[Parameter5]
-Name=Project_DesignName
-Value=AC_DC Converter Box
-
-[Parameter6]
-Name=Project_BOM_Revision
-Value=A
-
-[Parameter7]
-Name=Project_Author
-Value=EM
-
-[Parameter8]
-Name=Project_Assembly_Revision
-Value=A
-
-[Parameter9]
-Name=Project_Address4
-Value=USA
-
-[Parameter10]
-Name=Project_Address3
-Value=Norwalk, CT 06855
-
-[Parameter11]
 Name=Project_Address2
 Value=230 East Ave. Suite 100
 
+[Parameter3]
+Name=Project_Address3
+Value=Norwalk, CT 06855
+
+[Parameter4]
+Name=Project_Address4
+Value=USA
+
+[Parameter5]
+Name=Project_Assembly_Revision
+Value=A
+
+[Parameter6]
+Name=Project_Author
+Value=EM
+
+[Parameter7]
+Name=Project_BOM_Revision
+Value=A
+
+[Parameter8]
+Name=Project_DesignName
+Value=AC_DC Converter Box
+
+[Parameter9]
+Name=Project_Doc_Class
+Value=WH1
+
+[Parameter10]
+Name=Project_Layout_size
+Value=Letter
+
+[Parameter11]
+Name=Project_Sch_Revision
+Value=A
+
 [Parameter12]
-Name=Project_Address1
-Value=GameChange Solar
+Name=Proyect_Layout_Revision
+Value=A
 
 [Configuration1]
 Name=Sources
@@ -274,8 +282,8 @@ OutputDefault1=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Brother MFC-L8900CDW series Printer
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputType1=Composite
 OutputName1=Composite Drawing
 OutputDocumentPath1=
@@ -347,7 +355,9 @@ OutputName12=Schematic Prints
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.96|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=Letter|PaperIndex=1
+Configuration12_Name1=OutputConfigurationParameter1
+Configuration12_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=C:\Users\EstefaniaMedina\Documents\GitHub\AC-DC Converter Box\AC-DC_Converter_Wiring\ACD_SPD02_SPDHarness.SchDoc
 OutputType13=SimView Print
 OutputName13=SimView Prints
 OutputDocumentPath13=
