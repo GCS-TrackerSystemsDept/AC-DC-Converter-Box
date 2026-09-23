@@ -44,7 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=277V_NS
+CurrentVariant=240V_NS
 
 [Preferences]
 PrefsVaultGUID=
@@ -89,7 +89,7 @@ UniqueId=707BED67-9146-4951-A95D-FE8158D794F2
 Description=240V_NS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=9
+VariationCount=10
 Variation1=Designator=FA3|UniqueId=\HJYIWDTK|Kind=2|AlternatePart=Fuse Cartridge|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\EstefaniaMedina\Documents\GitHub\Altium-Library\Project Outputs for AltiumLibraryGCS\AltiumLibraryGCS.IntLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=FA,Fuse Cartridge|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLibraryGCS.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=|AltLibLink_IsSameFootprint=False
 ParamVariation1=ParameterName=Comment|VariantValue=Fuse Cartridge
 ParamDesignator1=FA3
@@ -213,10 +213,11 @@ ParamVariation59=ParameterName=Supplier info|VariantValue=
 ParamDesignator59=FA6
 Variation4=Designator=FA4|UniqueId=\MZALGGEC|Kind=1|AlternatePart=
 Variation5=Designator=FA5|UniqueId=\LXNLZVFB|Kind=1|AlternatePart=
-Variation6=Designator=FA26|UniqueId=\XQHEJSLD|Kind=1|AlternatePart=
+Variation6=Designator=FA26|UniqueId=\XQHEJSLD|Kind=0|AlternatePart=
 Variation7=Designator=FA18|UniqueId=\QFZMOPDS|Kind=1|AlternatePart=
 Variation8=Designator=FA30|UniqueId=\QUXHRZDI|Kind=1|AlternatePart=
 Variation9=Designator=FA29|UniqueId=\ISLRGHEK|Kind=1|AlternatePart=
+Variation10=Designator=FA21|UniqueId=\FBMNRGDG|Kind=1|AlternatePart=
 ParamVariationCount=59
 
 [ProjectVariant2]
@@ -440,26 +441,30 @@ DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM\BOM_AC_DC Converter Box_240V_NS_
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM\BOM_AC_DC Converter Box_270V_2026-09-10_RevA.xlsx
+DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM\BOM_AC_DC Converter Box_240V_NS_2026-09-23_RevB.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM\BOM_AC_DC Converter Box_270V_NS_2026-09-10_RevA.xlsx
+DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM\BOM_AC_DC Converter Box_270V_2026-09-10_RevA.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM\BOM_Project_DesignName_240V_2026-09-11_RevA.xlsx
+DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM\BOM_AC_DC Converter Box_270V_NS_2026-09-10_RevA.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM\BOM_Project_DesignName_240V_NS_2026-09-11_RevA.xlsx
+DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM\BOM_Project_DesignName_240V_2026-09-11_RevA.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM\BOM_Project_DesignName_277V_2026-09-11_RevA.xlsx
+DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM\BOM_Project_DesignName_240V_NS_2026-09-11_RevA.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument11]
+DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM\BOM_Project_DesignName_277V_2026-09-11_RevA.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument12]
 DocumentPath=..\..\..\..\OneDrive\AC-DC Box\BOM\BOM_Project_DesignName_277V_NS_2026-09-11_RevA.xlsx
 DItemRevisionGUID=
 
