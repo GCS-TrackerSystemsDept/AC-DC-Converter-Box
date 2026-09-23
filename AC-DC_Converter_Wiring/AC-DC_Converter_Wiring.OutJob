@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=AC-DC_Converter_Wiring.OutJob
 Description=
-TargetOutputMedium=Folder Structure
+TargetOutputMedium=PDF
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Brother MFC-L8900CDW series Printer
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -38,7 +38,7 @@ OutputName1=ACD_SPD02_240V_SPDHarness
 OutputCategory1=Documentation
 OutputDocumentPath1=
 OutputVariantName1=
-OutputEnabled1=0
+OutputEnabled1=1
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=1
 OutputEnabled1_OutputMedium3=0
@@ -52,7 +52,7 @@ OutputName2=BOM_ACD_SPD02_240V_SPDHarness
 OutputCategory2=Report
 OutputDocumentPath2=ACD_SPD02_240V_SPDHarness.SchDoc
 OutputVariantName2=
-OutputEnabled2=1
+OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=1
@@ -62,15 +62,15 @@ PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration2_Name1=ColumnNameFormat
 Configuration2_Item1=CaptionAsName
 Configuration2_Name2=General
-Configuration2_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1920|FormHeight=1033|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration2_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1920|FormHeight=1034|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
 Configuration2_Name3=GroupOrder
 Configuration2_Item3=GCS PN=True|Comment=True
 Configuration2_Name4=SortOrder
 Configuration2_Item4=Quantity=Up
 Configuration2_Name5=VisibleOrder
-Configuration2_Item5=GCS PN=100|Designator=120|Quantity=71|Comment=120|Description=578|MFR1=100|MPN1=100|MFR2=100|MPN2=100
+Configuration2_Item5=GCS PN=100|Designator=120|Quantity=71|Comment=322|Description=578|MFR1=100|MPN1=100|MFR2=100|MPN2=100
 Configuration2_Name6=VisibleOrder_Flat
-Configuration2_Item6=GCS PN=100|Designator=120|Quantity=71|Comment=120|Description=578|MFR1=100|MPN1=100|MFR2=100|MPN2=100
+Configuration2_Item6=GCS PN=100|Designator=120|Quantity=71|Comment=322|Description=578|MFR1=100|MPN1=100|MFR2=100|MPN2=100
 
 [PublishSettings]
 OutputFilePath2=C:\Users\EstefaniaMedina\OneDrive\AC-DC Box\
@@ -115,7 +115,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for AC-DC_Converter_Wiring
+OutputBasePath4=Project Outputs for Free Documents
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
